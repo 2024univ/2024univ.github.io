@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2023학년도 선행학습 영향평가 보고서</title>
+    <style>
+        /* 기본 스타일 설정 */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+/* 컨테이너 스타일 */
+.container {
+  display: flex;
+  flex-direction: column; /* 세로 방향으로 배치 */
+  width: 100%;
+  justify-content: space-evenly;
+  height: calc(100% - 100px);
+}
+
+/* 왼쪽 및 오른쪽 영역 스타일 */
+.left-side, .right-side {
+  flex: 1;
+  padding: 20px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* 검색 입력창 및 버튼 스타일 */
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+/* 검색 결과 영역 스타일 */
+.results-container {
+  text-align: center;
+  height: 100%; /* 부모 요소인 container의 높이를 차지 */
+}
+
+/* PDF iframe 스타일 */
+iframe {
+  border: none;
+  height: 100%; /* 부모 요소인 results-container의 높이를 차지 */
+}
+
+table {
+  border-collapse: collapse; /* 셀 간의 간격 제거 */
+}
+
+td {
+  border: 1px solid black; /* 기본적인 테두리 스타일 설정 */
+  border-left: none; /* 왼쪽 선 제거 */
+}
+
+td:first-child {
+  border-left: 1px solid black; /* 첫 번째 열에만 왼쪽 선 추가 */
+}
+
+    </style>
+</head>
+<body>
+    <!-- 검색 입력창 및 버튼 -->
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="학교 이름을 입력하세요" />
+        <button id="searchButton">검색</button>
+    </div>
+    <!-- 왼쪽 및 오른쪽 영역 -->
+    <div class="container">
+        <!-- 왼쪽 영역: 안내 메시지 -->
+        <div class="left-side" id="leftSide">
+            <p>- 이 자료는 2023학년도 선행학습 영향평가 보고서 검색기입니다.</p>
+            <p>- 배명고등학교 채용석 선생님께서 수집하신 자료를 바탕으로 서울 동양고등학교 김진혁 선생님이 만들었습니다.</p>
+            <p>- 사용에 문의가 있으시면 kimjh0630@naver.com 으로 연락바랍니다.</p>
+            <p>- OO대학교까지 입력해야 검색이 됩니다. 예를 들어 서울대가 아닌 서울대학교라고 검색해야합니다.</p>
+            <p>- 검색기에서 검색되지 않는 자료는 다음과 같습니다.</p>
+
+            <table>
+                <tbody>
+                  <tr>
+                    <th style="text-align: center;">인천, 강원, 대전</th>
+                    <th style="text-align: center;">충북, 경북, 부산, 전북</th>
+                    <th style="text-align: center;">제주, 경남</th>
+                    <th style="text-align: center;">경기</th>
+                    <th style="text-align: center;">각종 과학기술원</th>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">춘천교육대학교</td>
+                    <td style="text-align: center;">유원대학교</td>
+                    <td style="text-align: center;">제주국제대학교</td>
+                    <td style="text-align: center;">안양대학교</td>
+                 </tr>
+                  <tr>
+                    <td style="text-align: center;">경인교육대학교</td>
+                    <td style="text-align: center;">포항공과대학교</td>
+                    <td style="text-align: center;">가야대학교</td>
+                    <td style="text-align: center;">서울장신대학교</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">한밭대학교</td>
+                    <td style="text-align: center;">부경대학교</td>
+                    <td style="text-align: center;">한국국제대학교</td>
+                    <td style="text-align: center;">중앙승가대학교</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;"></td>
+                    <td style="text-align: center;">예수대학교</td>
+                    <td style="text-align: center;"></td>
+                    <td style="text-align: center;">칼빈대학교</td>
+                  </tr>
+                </tbody>
+              </table>
+        </div>
+        <!-- 오른쪽 영역: 검색 결과 -->
+        <div class="right-side">
+            <div class="results-container" id="results"></div>
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+<script>
+const searchButton = document.getElementById('searchButton');
+const searchInput = document.getElementById('searchInput');
+const resultsContainer = document.getElementById('results');
+const leftSide = document.getElementById('leftSide');
+const apiURL = "/report_list.json";
+
+const search = async () => {
+    const searchTerm = searchInput.value.trim();
+    if (!searchTerm) {
+        alert("검색어를 입력하세요.");
+        return;
+    }
+
+    try {
+        const response = await fetch(apiURL);
+        if (!response.ok) {
+            throw new Error("API 호출 실패");
+        }
+
+        const fileList = await response.json();
+        const fileMatch = fileList.find(file => file.replace(".pdf", "") === searchTerm);
+
+        resultsContainer.innerHTML = '';
+
+        if (fileMatch) {
+            const pdfURL = `./data1/${fileMatch}`;
+            const pdfIframe = `<iframe src="${pdfURL}" width="100%" height="600px"></iframe>`;
+            resultsContainer.innerHTML = pdfIframe;
+            leftSide.style.display = 'none';
+        } else {
+            resultsContainer.innerHTML = "<p>검색 결과가 없습니다.</p>";
+            leftSide.style.display = 'block';
+        }
+    } catch (error) {
+        console.error(error);
+        alert("검색 중 오류가 발생했습니다.");
+    }
+};
+
+searchButton.addEventListener('click', search);
+searchInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter') {
+        search();
+    }
+});
+</script>
+
+</body>
+</html>
