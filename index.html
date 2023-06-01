@@ -22,6 +22,17 @@
     .card:hover {
       transform: scale(1.1);
     }
+    
+    @keyframes blinking {
+      0% {background-color: rgb(248, 232, 143);}
+      50% {background-color: white;}
+      100% {background-color: rgb(253, 169, 136);}
+    }
+
+    .blinking-card {
+      animation: blinking 1s infinite;
+    }
+    
   </style>
 </head>
 
@@ -79,12 +90,12 @@
         </div>
       </div>
       <div class="col-md-4 mb-4">
-        <div class="card">
+        <div class="card blinking-card">
           <div class="card-body">
             <h5 class="card-title">2024학년도 수시모집요강</h5>
             <p class="card-text">2024학년도 수시모집요강</p>
             <p class="card-text">대학에서 발표시 업데이트 예정입니다.</p>
-            <class="card-link stretched-link" target="_blank"></class=>
+            <a href="2024s.html" class="card-link stretched-link" ></a>
           </div>
         </div>
       </div>
