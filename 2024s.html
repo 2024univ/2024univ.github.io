@@ -158,7 +158,7 @@ const search = async () => {
 
         if (fileMatch) {
             const pdfURL = `./2024/${fileMatch}`;
-            const pdfIframe = `<iframe src="${pdfURL}" width="100%" height="600px"></iframe>`;
+            const pdfIframe = `<iframe src="${pdfURL}" width="100%" height="100%"></iframe>`;
             resultsContainer.innerHTML = pdfIframe;
             leftSide.style.display = 'none';
         } else {
