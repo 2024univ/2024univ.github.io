@@ -1,196 +1,95 @@
 <!DOCTYPE html>
 <html lang="ko">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>2024학년도 수시 모집요강 검색기</title>
-    <link
-      rel="stylesheet"
-      href="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/easygpt/default.css"
-    />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-      crossorigin="anonymous"
-    />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2024학년도 정시 모집요강 검색기</title>
+    <link rel="stylesheet" href="https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/easygpt/default.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
     <style>
-      /* 여기에 기존 스타일 코드 추가 */
+        /* 여기에 기존 스타일 코드 추가 */
 
-      .hero {
-        margin-bottom: 50px;
-      }
-
-      .card {
-        transition: transform 0.3s ease-in-out;
-      }
-
-      .card:hover {
-        transform: scale(1.1);
-      }
-
-      body {
-        font-family: Arial, sans-serif;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 0 auto;
-        height: 100vh;
-      }
-
-      /* 컨테이너 스타일 */
-      .container {
-        display: flex;
-        flex-direction: column; /* 세로 방향으로 배치 */
-        width: 100%;
-        justify-content: space-evenly;
-        height: calc(100% - 100px);
-      }
-
-      /* 왼쪽 및 오른쪽 영역 스타일 */
-      .left-side,
-      .right-side {
-        flex: 1;
-        padding: 20px;
-        overflow-y: auto;
-        width: 100%;
-      }
-
-      /* 검색 입력창 및 버튼 스타일 */
-      .search-container {
-        display: flex;
-        align-items: center; /* 요소를 수직 중앙 정렬합니다 */
-        width: 100%;
-        max-width: 800px;
-        margin: 0 auto;
-      }
-      #searchInput {
-        flex: 1; /* 입력 필드가 가변 너비를 가지도록 flex 속성을 설정합니다 */
-        padding: 10px;
-        border: none;
-        border-radius: 5px 0 0 5px;
-        font-size: 16px;
-      }
-
-      #searchButton {
-        padding: 10px 20px;
-        border: none;
-        border-radius: 0 5px 5px 0;
-        background-color: #4caf50;
-        color: white;
-        font-size: 16px;
-        cursor: pointer;
-        margin-left: -1px; /* 버튼과 입력 필드 사이의 간격을 조정합니다 */
-      }
-      #searchButton2 {
-        padding: 4px 9px;
-        border: none;
-        border-radius: 5px; /* 네 모퉁이 모두 부드러운 곡선으로 만듭니다 */
-        background-color: #4caf50;
-        color: white;
-        font-size: 16px;
-        cursor: pointer;
-        margin-left: -1px;
-      }
-
-      /* 검색 결과 영역 스타일 */
-      .results-container {
-        text-align: center;
-        height: 100%; /* 부모 요소인 container의 높이를 차지 */
-      }
-
-      /* PDF iframe 스타일 */
-      iframe {
-        border: none;
-        height: 100%; /* 부모 요소인 results-container의 높이를 차지 */
-      }
-
-      #pdf-canvas {
-        width: 100%;
-        border: 1px solid #ddd; /* 스타일 필요에 따라 조정 */
-      }
+        #pdf-canvas {
+            width: 100%;
+            border: 1px solid #ddd; /* 스타일 필요에 따라 조정 */
+        }
     </style>
-  </head>
-  <body>
-    <div class="hero bg-dark text-center py-5" style="width: 100%">
-      <h1 class="text-white">2024학년도 정시 모집요강</h1>
-      <div class="search-container" style="width: 100%">
-        <input
-          type="text"
-          id="searchInput"
-          placeholder="대학명을 입력하세요(예. 서울대학교, 연세대학교)."
-        />
-        <button id="searchButton">검색</button>
-      </div>
+</head>
+<body>
+    <div class="hero bg-dark text-center py-5" style="width: 100%;">
+        <h1 class="text-white">2024학년도 정시 모집요강</h1>
+        <div class="search-container" style="width: 100%;">
+            <input type="text" id="searchInput" placeholder="대학명을 입력하세요. OO대학교와 같이 전부 입력합니다."/>
+            <button id="searchButton">검색</button>
+        </div>
     </div>
     <div class="container">
-      <div class="left-side" id="leftSide">
-        <!-- 여기에 기존 왼쪽 영역 코드 추가 -->
-      </div>
-      <div class="right-side">
-        <div class="results-container" id="results">
-          <canvas id="pdf-canvas"></canvas>
+        <div class="left-side" id="leftSide">
+            <!-- 여기에 기존 왼쪽 영역 코드 추가 -->
         </div>
-      </div>
+        <div class="right-side">
+            <div class="results-container" id="results">
+                <canvas id="pdf-canvas"></canvas>
+            </div>
+        </div>
     </div>
     <script>
-      const searchButton = document.getElementById("searchButton");
-      const searchInput = document.getElementById("searchInput");
-      const resultsContainer = document.getElementById("results");
-      const leftSide = document.getElementById("leftSide");
-      const pdfCanvas = document.getElementById("pdf-canvas");
-      const ctx = pdfCanvas.getContext("2d");
-      const apiURL = "/2024j.json";
+        const searchButton = document.getElementById('searchButton');
+        const searchInput = document.getElementById('searchInput');
+        const resultsContainer = document.getElementById('results');
+        const leftSide = document.getElementById('leftSide');
+        const pdfCanvas = document.getElementById('pdf-canvas');
+        const ctx = pdfCanvas.getContext('2d');
+        const apiURL = "/2024susi.json";
 
-      const renderPDF = async (url) => {
-        const pdfDoc = await pdfjsLib.getDocument(url).promise;
-        const page = await pdfDoc.getPage(1);
-        const viewport = page.getViewport({ scale: 1.5 });
-        pdfCanvas.height = viewport.height;
-        pdfCanvas.width = viewport.width;
-        await page.render({ canvasContext: ctx, viewport: viewport }).promise;
-      };
+        const renderPDF = async (url) => {
+            const pdfDoc = await pdfjsLib.getDocument(url).promise;
+            const page = await pdfDoc.getPage(1);
+            const viewport = page.getViewport({ scale: 1.5 });
+            pdfCanvas.height = viewport.height;
+            pdfCanvas.width = viewport.width;
+            await page.render({ canvasContext: ctx, viewport: viewport }).promise;
+        };
 
-      const search = async () => {
-        const searchTerm = searchInput.value.trim();
-        if (!searchTerm) {
-          alert("검색어를 입력하세요.");
-          return;
-        }
+        const search = async () => {
+            const searchTerm = searchInput.value.trim();
+            if (!searchTerm) {
+                alert("검색어를 입력하세요.");
+                return;
+            }
 
-        try {
-          const response = await fetch(apiURL);
-          if (!response.ok) {
-            throw new Error("API 호출 실패");
-          }
+            try {
+                const response = await fetch(apiURL);
+                if (!response.ok) {
+                    throw new Error("API 호출 실패");
+                }
 
-          const fileList = await response.json();
-          const fileMatch = fileList.find(
-            (file) => file.replace(".pdf", "") === searchTerm
-          );
-          resultsContainer.innerHTML = "";
+                const fileList = await response.json();
+                const fileMatch = fileList.find(file => file.replace(".pdf", "") === searchTerm);
+                resultsContainer.innerHTML = '';
 
-          if (fileMatch) {
-            const pdfURL = `./2024/${fileMatch}`;
-            renderPDF(pdfURL);
-            leftSide.style.display = "none";
-          } else {
-            resultsContainer.innerHTML = "<p>검색 결과가 없습니다.</p>";
-            leftSide.style.display = "block";
-          }
-        } catch (error) {
-          console.error(error);
-          alert("검색 중 오류가 발생했습니다.");
-        }
-      };
+                if (fileMatch) {
+                    const pdfURL = `./2024/${fileMatch}`;
+                    renderPDF(pdfURL);
+                    leftSide.style.display = 'none';
+                } else {
+                    resultsContainer.innerHTML = "<p>검색 결과가 없습니다.</p>";
+                    leftSide.style.display = 'block';
+                }
+            } catch (error) {
+                console.error(error);
+                alert("검색 중 오류가 발생했습니다.");
+            }
+        };
 
-      searchButton.addEventListener("click", search);
-      searchInput.addEventListener("keydown", (event) => {
-        if (event.key === "Enter") {
-          search();
-        }
-      });
+        searchButton.addEventListener('click', search);
+        searchInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter') {
+                search();
+            }
+        });
     </script>
-  </body>
+</body>
 </html>
