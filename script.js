@@ -3,7 +3,7 @@ let markers = [];
 function fetchAndDisplayData(region) {
   console.log("fetchAndDisplayData called with region: " + region); // 디버깅 로그
   fetch(
-    "http://127.0.0.1:5500/univ_map/대학정보.json?timestamp=" +
+    "대학정보.json?timestamp=" +
       new Date().getTime()
   )
     .then((response) => response.json())
