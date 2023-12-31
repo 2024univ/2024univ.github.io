@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>대학 위치 지도</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" href="./favicon.jpg"
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <!-- 지역 버튼 -->
+        <button onclick="fetchAndDisplayData('강원')">강원</button>
+        <button onclick="fetchAndDisplayData('경기')">경기</button>
+        <button onclick="fetchAndDisplayData('경남')">경남</button>
+        <button onclick="fetchAndDisplayData('경북')">경북</button>
+        <button onclick="fetchAndDisplayData('광주')">광주</button>
+        <button onclick="fetchAndDisplayData('대구')">대구</button>
+        <button onclick="fetchAndDisplayData('대전')">대전</button>
+        <button onclick="fetchAndDisplayData('부산')">부산</button>
+        <button onclick="fetchAndDisplayData('서울')">서울</button>
+        <button onclick="fetchAndDisplayData('세종')">세종</button>
+        <button onclick="fetchAndDisplayData('울산')">울산</button>
+        <button onclick="fetchAndDisplayData('인천')">인천</button>
+        <button onclick="fetchAndDisplayData('전남')">전남</button>
+        <button onclick="fetchAndDisplayData('전북')">전북</button>
+        <button onclick="fetchAndDisplayData('제주')">제주</button>
+        <button onclick="fetchAndDisplayData('충남')">충남</button>
+        <button onclick="fetchAndDisplayData('충북')">충북</button>
+        <!-- ... -->
+      </div>
+      <div id="map"></div>
+    </div>
+
+    <!-- initMap이 정의된 자바스크립트 파일 -->
+    <script>
+      let map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById("map"), {
+          center: { lat: 37.0, lng: 127.5 },
+          zoom: 7,
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqScdoBOkLUatgE9R46UBw_Pan5snhWPg&callback=initMap"></script>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  </body>
+</html>
