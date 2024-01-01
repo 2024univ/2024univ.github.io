@@ -36,3 +36,9 @@ button {
 button:hover {
   background-color: #45a049;
 }
+.university-buttons-container {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
