@@ -1,30 +1,65 @@
 let markers = [];
+let markersMap = {}; // 마커 참조를 저장할 객체
 
-function fetchAndDisplayData(region) {
-  console.log("fetchAndDisplayData called with region: " + region); // 디버깅 로그
-  fetch(
-    "대학정보.json?timestamp=" +
-      new Date().getTime()
-  )
+function fetchAndDisplayData(region, clickedButton) {
+  console.log("fetchAndDisplayData called with region: " + region);
+  fetch("http://127.0.0.1:5500/univ_map/대학정보.json")
     .then((response) => response.json())
     .then((jsonData) => {
-      console.log("All data:", jsonData); // 전체 데이터 출력
+      console.log("All data:", jsonData);
 
-      // 데이터 필터링
       let filteredData = jsonData.filter((item) => {
         let regionValue = (item.지역 || "").trim().toLowerCase();
         return regionValue === region.toLowerCase();
       });
 
-      console.log("Filtered data:", filteredData); // 필터링된 데이터 출력
+      console.log("Filtered data:", filteredData);
       displayMarkers(filteredData);
+      createUniversityButtons(filteredData, clickedButton);
     })
     .catch((error) => console.error("Error fetching JSON file:", error));
 }
 
+function createUniversityButtons(data, clickedButton) {
+  // 기존 대학명 버튼 컨테이너 제거
+  let existingContainer = document.querySelector(
+    ".university-buttons-container"
+  );
+  if (existingContainer) {
+    existingContainer.remove();
+  }
+
+  // 새로운 대학명 버튼 컨테이너 생성
+  let buttonsContainer = document.createElement("div");
+  buttonsContainer.classList.add("university-buttons-container");
+
+  data.forEach((item) => {
+    const button = document.createElement("button");
+    button.textContent = item.대학명;
+    button.onclick = () => focusOnMarker(item);
+    buttonsContainer.appendChild(button);
+  });
+
+  // 클릭된 버튼의 바로 다음 위치에 새 컨테이너 삽입
+  clickedButton.insertAdjacentElement("afterend", buttonsContainer);
+}
+
+function focusOnMarker(item) {
+  const latLng = new google.maps.LatLng(
+    parseFloat(item.위도),
+    parseFloat(item.경도)
+  );
+  map.setCenter(latLng);
+  map.setZoom(12);
+}
+
+// 지역 버튼의 onclick 이벤트 수정
+// 예시: <button onclick="fetchAndDisplayData('경기', this)">경기</button>
+
 // 지도에 마커를 표시하는 함수
 function displayMarkers(data) {
   clearMarkers();
+  markersMap = {}; // 마커 참조를 리셋
 
   if (data.length > 0) {
     let totalLat = 0;
