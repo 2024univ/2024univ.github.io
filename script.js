@@ -3,7 +3,7 @@ let markersMap = {}; // 마커 참조를 저장할 객체
 
 function fetchAndDisplayData(region, clickedButton) {
   console.log("fetchAndDisplayData called with region: " + region);
-  fetch("http://127.0.0.1:5500/univ_map/대학정보.json")
+  fetch("/대학정보.json")
     .then((response) => response.json())
     .then((jsonData) => {
       console.log("All data:", jsonData);
