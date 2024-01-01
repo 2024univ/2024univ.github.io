@@ -9,26 +9,28 @@
     <div class="container">
       <div class="sidebar">
         <!-- 지역 버튼 -->
-        <button onclick="fetchAndDisplayData('강원')">강원</button>
-        <button onclick="fetchAndDisplayData('경기')">경기</button>
-        <button onclick="fetchAndDisplayData('경남')">경남</button>
-        <button onclick="fetchAndDisplayData('경북')">경북</button>
-        <button onclick="fetchAndDisplayData('광주')">광주</button>
-        <button onclick="fetchAndDisplayData('대구')">대구</button>
-        <button onclick="fetchAndDisplayData('대전')">대전</button>
-        <button onclick="fetchAndDisplayData('부산')">부산</button>
-        <button onclick="fetchAndDisplayData('서울')">서울</button>
-        <button onclick="fetchAndDisplayData('세종')">세종</button>
-        <button onclick="fetchAndDisplayData('울산')">울산</button>
-        <button onclick="fetchAndDisplayData('인천')">인천</button>
-        <button onclick="fetchAndDisplayData('전남')">전남</button>
-        <button onclick="fetchAndDisplayData('전북')">전북</button>
-        <button onclick="fetchAndDisplayData('제주')">제주</button>
-        <button onclick="fetchAndDisplayData('충남')">충남</button>
-        <button onclick="fetchAndDisplayData('충북')">충북</button>
+        <button onclick="fetchAndDisplayData('강원', this)">강원</button>
+        <button onclick="fetchAndDisplayData('경기', this)">경기</button>
+        <button onclick="fetchAndDisplayData('경남', this)">경남</button>
+        <button onclick="fetchAndDisplayData('경북', this)">경북</button>
+        <button onclick="fetchAndDisplayData('광주', this)">광주</button>
+        <button onclick="fetchAndDisplayData('대구', this)">대구</button>
+        <button onclick="fetchAndDisplayData('대전', this)">대전</button>
+        <button onclick="fetchAndDisplayData('부산', this)">부산</button>
+        <button onclick="fetchAndDisplayData('서울', this)">서울</button>
+        <button onclick="fetchAndDisplayData('세종', this)">세종</button>
+        <button onclick="fetchAndDisplayData('울산', this)">울산</button>
+        <button onclick="fetchAndDisplayData('인천', this)">인천</button>
+        <button onclick="fetchAndDisplayData('전남', this)">전남</button>
+        <button onclick="fetchAndDisplayData('전북', this)">전북</button>
+        <button onclick="fetchAndDisplayData('제주', this)">제주</button>
+        <button onclick="fetchAndDisplayData('충남', this)">충남</button>
+        <button onclick="fetchAndDisplayData('충북', this)">충북</button>
         <!-- ... -->
+        <div id="university-buttons-container"></div>
       </div>
       <div id="map"></div>
+      <!-- 대학명 버튼이 추가될 컨테이너 -->
     </div>
 
     <!-- initMap이 정의된 자바스크립트 파일 -->
