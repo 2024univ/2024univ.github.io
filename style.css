@@ -23,10 +23,10 @@ html {
 }
 
 button {
-  width: 100%;
+  width: 150px;
   padding: 10px;
   margin-bottom: 10px;
-  background-color: #4caf50;
+  background-color: #2274c1;
   color: white;
   border: none;
   border-radius: 4px;
@@ -34,11 +34,11 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #419e46;
 }
+
 .university-buttons-container {
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
