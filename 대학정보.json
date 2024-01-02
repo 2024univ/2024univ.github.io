@@ -1,0 +1,2182 @@
+[
+    {
+        "대학명": "가야대학교(김해)(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 김해시 삼계로 208 (삼계동)",
+        "위도": "35.269369",
+        "경도": "128.8725421",
+        "코드": "0002748",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002748&sch_year=2024#con20 "
+    },
+    {
+        "대학명": "가천대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 성남시 수정구 성남대로 1342 (복정동, 가천대학교)",
+        "위도": "37.4523915",
+        "경도": "127.1307015",
+        "코드": "0000063",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000063&sch_year=2024#con20"
+    },
+    {
+        "대학명": "가톨릭관동대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 강릉시 범일로579번길 24 (내곡동, 가톨릭관동대학교)",
+        "위도": "37.7358498",
+        "경도": "128.8739922",
+        "코드": "0000072",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000072&sch_year=2024#con20"
+    },
+    {
+        "대학명": "가톨릭꽃동네대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 청주시 서원구 현도면 상삼길 133 (상삼리, 가톨릭꽃동네대학교)",
+        "위도": "36.5221196",
+        "경도": "127.4011946",
+        "코드": "0000215",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000215&sch_year=2024#con20"
+    },
+    {
+        "대학명": "가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 부천시 지봉로 43 (가톨릭대학교 성심교정)",
+        "위도": "37.4862534",
+        "경도": "126.8016995",
+        "코드": "0000046",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000046&sch_year=2024#con20"
+    },
+    {
+        "대학명": "가톨릭대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "서울",
+        "도로명": "서울특별시 서초구 반포대로 222 (반포동, 가톨릭대학교 성의교정)",
+        "위도": "37.5017271",
+        "경도": "127.0047035",
+        "코드": "0000048",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000048&sch_year=2024#con20"
+    },
+    {
+        "대학명": "가톨릭대학교(제3캠퍼스)",
+        "캠퍼스 구분": "제3캠퍼스",
+        "지역": "서울",
+        "도로명": "서울특별시 종로구 창경궁로 296-12 (혜화동, 가톨릭대학교성신교정)",
+        "위도": "37.5859764",
+        "경도": "127.0043558",
+        "코드": "0000049",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000049&sch_year=2024#con20"
+    },
+    {
+        "대학명": "감리교신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 서대문구 독립문로 56 (냉천동, 감리교신학대학)",
+        "위도": "37.5675717",
+        "경도": "126.9621585",
+        "코드": "0000050",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000050&sch_year=2024#con20"
+    },
+    {
+        "대학명": "강남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 용인시 기흥구 강남로 40 (구갈동, 강남대학교)",
+        "위도": "37.2747616",
+        "경도": "127.1327214",
+        "코드": "0000051",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000051&sch_year=2024#con20"
+    },
+    {
+        "대학명": "강릉원주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 강릉시 죽헌길 7 (지변동, 강릉원주대학교)",
+        "위도": "37.7706676",
+        "경도": "128.8701111",
+        "코드": "0000001",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000001&sch_year=2024#con20"
+    },
+    {
+        "대학명": "강릉원주대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "강원",
+        "도로명": "강원도 원주시 흥업면 남원로 150 (흥업리, 강릉원주대학교원주캠퍼스)",
+        "위도": "37.3052063",
+        "경도": "127.9228986",
+        "코드": "0000002",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000002&sch_year=2024#con20"
+    },
+    {
+        "대학명": "강서대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 강서구 까치산로24길 47 (화곡동, 강서대학교)",
+        "위도": "37.5486642",
+        "경도": "126.8548188",
+        "코드": "0000079",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000079&sch_year=2024#con20"
+    },
+    {
+        "대학명": "강원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 춘천시 강원대학길 1 (효자동, 강원대학교)",
+        "위도": "37.8684418",
+        "경도": "127.7438324",
+        "코드": "0000003",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000003&sch_year=2024#con20"
+    },
+    {
+        "대학명": "강원대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "강원",
+        "도로명": "강원도 삼척시 중앙로 346 (교동, 강원대학교삼척캠퍼스)",
+        "위도": "37.4534416",
+        "경도": "129.161989",
+        "코드": "0000004",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000004&sch_year=2024#con20"
+    },
+    {
+        "대학명": "건국대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 광진구 능동로 120 (화양동, 건국대학교)",
+        "위도": "37.5438883",
+        "경도": "127.0759546",
+        "코드": "0000052",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000052&sch_year=2024#con20"
+    },
+    {
+        "대학명": "건국대학교(글로컬)(분교)",
+        "캠퍼스 구분": "분교",
+        "지역": "충북",
+        "도로명": "충청북도 충주시 충원대로 268 (단월동, 건국대학교 글로컬캠퍼스)",
+        "위도": "36.9494179",
+        "경도": "127.907532",
+        "코드": "0000053",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000053&sch_year=2024#con20"
+    },
+    {
+        "대학명": "건양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 논산시 대학로 121 (내동, 건양대학교)",
+        "위도": "36.1827999",
+        "경도": "127.1114387",
+        "코드": "0000054",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000054&sch_year=2024#con20"
+    },
+    {
+        "대학명": "건양대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "대전",
+        "도로명": "대전광역시 서구 관저동로 158 (관저동, 건양대학교병원)",
+        "위도": "36.306642",
+        "경도": "127.342613",
+        "코드": "0000055",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000055&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경기대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 수원시 영통구 광교산로 154-42 (이의동, 경기대학교)",
+        "위도": "37.3005585",
+        "경도": "127.0347399",
+        "코드": "0000056",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000056&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경기대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "서울",
+        "도로명": "서울특별시 서대문구 경기대로9길 24 (충정로2가, 경기대학교)",
+        "위도": "37.5649767",
+        "경도": "126.9623605",
+        "코드": "0000058",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000058&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 창원시 마산합포구 경남대학로 7 (월영동, 경남대학교)",
+        "위도": "35.1801979",
+        "경도": "128.5532458",
+        "코드": "0000059",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000059&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경동대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 고성군 토성면 봉포4길 46 (봉포리, 경동대학교)",
+        "위도": "38.2508819",
+        "경도": "128.5564857",
+        "코드": "0000060",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000060&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경동대학교(제3캠퍼스)",
+        "캠퍼스 구분": "제3캠퍼스",
+        "지역": "강원",
+        "도로명": "강원도 원주시 문막읍 견훤로 815 (후용리, 경동대학교)",
+        "위도": "37.2654572",
+        "경도": "127.7938647",
+        "코드": "0002574",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002574&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경동대학교(제4캠퍼스)",
+        "캠퍼스 구분": "제4캠퍼스",
+        "지역": "경기",
+        "도로명": "경기도 양주시 경동대학로 27 (고암동, 경동대학교)",
+        "위도": "37.809463",
+        "경도": "127.071429",
+        "코드": "0002744",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002744&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경북대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대구",
+        "도로명": "대구광역시 북구 대학로 80 (산격동, 경북대학교)",
+        "위도": "35.8905477",
+        "경도": "128.6121117",
+        "코드": "0000005",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000005&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경상국립대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 진주시 진주대로 501 (가좌동, 경상대학교)",
+        "위도": "35.1538877",
+        "경도": "128.0985941",
+        "코드": "0000007",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000007&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경성대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 남구 수영로 309 (대연동, 경성대학교)",
+        "위도": "35.1422457",
+        "경도": "129.0969338",
+        "코드": "0000062",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000062&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경운대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 구미시 산동읍 강동로 730 경운대학교(우.39160)",
+        "위도": "36.167866",
+        "경도": "128.4676331",
+        "코드": "0000244",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000244&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경인교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "인천",
+        "도로명": "인천광역시 계양구 계산로 62 (계산동, 경인교육대학교)",
+        "위도": "37.538251",
+        "경도": "126.7170352",
+        "코드": "0000256",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000256&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경일대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 하양읍 가마실길 50 (부호리, 경일대학교)",
+        "위도": "35.90729",
+        "경도": "128.801112",
+        "코드": "0000064",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000064&sch_year=2024#con20"
+    },
+    {
+        "대학명": "경희대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 동대문구 경희대로 26 (회기동, 경희대학교)",
+        "위도": "37.5964494",
+        "경도": "127.0525009",
+        "코드": "0000066",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000066&sch_year=2024#con20"
+    },
+    {
+        "대학명": "계명대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대구",
+        "도로명": "대구광역시 달서구 달구벌대로 1095 (신당동, 계명대학교성서캠퍼스)",
+        "위도": "35.8559248",
+        "경도": "128.4845959",
+        "코드": "0000068",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000068&sch_year=2024#con20"
+    },
+    {
+        "대학명": "고려대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성북구 안암로 145 (안암동5가, 고려대학교 서울캠퍼스)",
+        "위도": "37.5899103",
+        "경도": "127.0318122",
+        "코드": "0000069",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000069&sch_year=2024#con20"
+    },
+    {
+        "대학명": "고려대학교(세종)(분교)",
+        "캠퍼스 구분": "분교",
+        "지역": "세종",
+        "도로명": "세종특별자치시 조치원읍 세종로 2511 (서창리, 고려대학교세종캠퍼스)",
+        "위도": "36.6101822",
+        "경도": "127.2857059",
+        "코드": "0000070",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000070&sch_year=2024#con20"
+    },
+    {
+        "대학명": "고신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 영도구 와치로 194 (동삼동, 고신대학교)",
+        "위도": "35.0789636",
+        "경도": "129.06313",
+        "코드": "0000071",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000071&sch_year=2024#con20"
+    },
+    {
+        "대학명": "공주교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 공주시 웅진로 27 (봉황동, 공주교육대학교)",
+        "위도": "36.4448772",
+        "경도": "127.119253",
+        "코드": "0000251",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000251&sch_year=2024#con20"
+    },
+    {
+        "대학명": "공주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 공주시 공주대학로 56 (신관동, 공주대학교)",
+        "위도": "36.4702096",
+        "경도": "127.141",
+        "코드": "0000008",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000008&sch_year=2024#con20"
+    },
+    {
+        "대학명": "광신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 북구 양산택지소로 36 (본촌동, 광신대학교)",
+        "위도": "35.2157286",
+        "경도": "126.885071",
+        "코드": "0000073",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000073&sch_year=2024#con20"
+    },
+    {
+        "대학명": "광운대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 노원구 광운로 20 (월계동, 광운대학교)",
+        "위도": "37.6197992",
+        "경도": "127.0584363",
+        "코드": "0000074",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000074&sch_year=2024#con20"
+    },
+    {
+        "대학명": "광주가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 나주시 남평읍 중남길 12-25 (남석리, 광주가톨릭대학교)",
+        "위도": "35.01545",
+        "경도": "126.8650625",
+        "코드": "0000075",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000075&sch_year=2024#con20"
+    },
+    {
+        "대학명": "광주교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 북구 필문대로 55 (풍향동, 광주교육대학교)",
+        "위도": "35.1647158",
+        "경도": "126.9269527",
+        "코드": "0000252",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000252&sch_year=2024#con20"
+    },
+    {
+        "대학명": "광주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 남구 효덕로 277 (진월동, 광주대학교)",
+        "위도": "35.1072019",
+        "경도": "126.8960122",
+        "코드": "0000231",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000231&sch_year=2024#con20"
+    },
+    {
+        "대학명": "광주여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 광산구 광주여대길 40 (대학본부/도서관)",
+        "위도": "35.1631288",
+        "경도": "126.7963105",
+        "코드": "0000076",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000076&sch_year=2024#con20"
+    },
+    {
+        "대학명": "국민대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성북구 정릉로 77 (정릉동, 국민대학교)",
+        "위도": "37.6108107",
+        "경도": "126.9969024",
+        "코드": "0000078",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000078&sch_year=2024#con20"
+    },
+    {
+        "대학명": "군산대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 군산시 대학로 558 (미룡동, 군산대학교)",
+        "위도": "35.9470944",
+        "경도": "126.6814342",
+        "코드": "0000009",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000009&sch_year=2024#con20"
+    },
+    {
+        "대학명": "극동대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 음성군 감곡면 대학길 76-32 (왕장리, 극동대학교)",
+        "위도": "37.1275842",
+        "경도": "127.6430234",
+        "코드": "0000080",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000080&sch_year=2024#con20"
+    },
+    {
+        "대학명": "금강대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 논산시 상월면 상월로 522 (대명리, 금강대학교)",
+        "위도": "36.3058031",
+        "경도": "127.195511",
+        "코드": "0000224",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000224&sch_year=2024#con20"
+    },
+    {
+        "대학명": "금오공과대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 구미시 대학로 61 (양호동, 금오공과대학교)",
+        "위도": "36.1463163",
+        "경도": "128.3934519",
+        "코드": "0000010",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000010&sch_year=2024#con20"
+    },
+    {
+        "대학명": "김천대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 김천시 대학로 214",
+        "위도": "36.1395578",
+        "경도": "128.0805228",
+        "코드": "0000241",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000241&sch_year=2024#con20"
+    },
+    {
+        "대학명": "나사렛대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 천안시 서북구 월봉로 48 (쌍용동, 나사렛대학교)",
+        "위도": "36.7962396",
+        "경도": "127.119583",
+        "코드": "0000081",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000081&sch_year=2024#con20"
+    },
+    {
+        "대학명": "남부대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 광산구 첨단중앙로 23 (월계동, 남부대학교)",
+        "위도": "",
+        "경도": "",
+        "코드": "0000216",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000216&sch_year=2024#con20"
+    },
+    {
+        "대학명": "남서울대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 천안시 서북구 성환읍 대학로 91 (매주리, 남서울대학교)",
+        "위도": "36.9095318",
+        "경도": "127.1447235",
+        "코드": "0000245",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000245&sch_year=2024#con20"
+    },
+    {
+        "대학명": "단국대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 용인시 수지구 죽전로 152 (죽전동, 단국대학교)",
+        "위도": "37.3207278",
+        "경도": "127.1276811",
+        "코드": "0000082",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000082&sch_year=2024#con20"
+    },
+    {
+        "대학명": "단국대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "충남",
+        "도로명": "충청남도 천안시 동남구 단대로 119 (안서동, 단국대학교천안캠퍼스)",
+        "위도": "36.8373833",
+        "경도": "127.1685007",
+        "코드": "0002726",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002726&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대구가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 하양읍 하양로 13-13 (금락리, 대구가톨릭대학교)",
+        "위도": "35.9108879",
+        "경도": "128.8077811",
+        "코드": "0000088",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000088&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대구교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대구",
+        "도로명": "대구광역시 남구 중앙대로 219 (대명동, 대구교육대학교)",
+        "위도": "35.8530252",
+        "경도": "128.5889174",
+        "코드": "0000253",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000253&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대구대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 진량읍 대구대로 201 (내리리, 대구대학교경산캠퍼스)",
+        "위도": "35.901049",
+        "경도": "128.8491",
+        "코드": "0000084",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000084&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대구예술대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 칠곡군 가산면 다부거문1길 202 (다부리, 대구예술대학교)",
+        "위도": "36.0333405",
+        "경도": "128.5104925",
+        "코드": "0000087",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000087&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대구한의대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 한의대로 1 (유곡동, 대구한의대학교)",
+        "위도": "35.7950097",
+        "경도": "128.7754765",
+        "코드": "0000061",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000061&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 경청로222길 33 (백천동, 대신대학교)",
+        "위도": "35.8038667",
+        "경도": "128.7441875",
+        "코드": "0000093",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000093&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대전가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "세종",
+        "도로명": "세종특별자치시 전의면 가톨릭대학로 30 (신방리, 대전가톨릭대학교)",
+        "위도": "36.654991",
+        "경도": "127.1967813",
+        "코드": "0000094",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000094&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대전대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 동구 대학로 62 (용운동, 대전대학교)",
+        "위도": "36.3343597",
+        "경도": "127.4606466",
+        "코드": "0000095",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000095&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대전신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 대덕구 한남로 41 (오정동, 대전신학대학교)",
+        "위도": "36.3495481",
+        "경도": "127.4240159",
+        "코드": "0000238",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000238&sch_year=2024#con20"
+    },
+    {
+        "대학명": "대진대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 포천시 호국로 1007 (선단동, 대진대학교)",
+        "위도": "37.8734346",
+        "경도": "127.1573986",
+        "코드": "0000097",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000097&sch_year=2024#con20"
+    },
+    {
+        "대학명": "덕성여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 도봉구 삼양로144길 33 (쌍문동, 덕성여자대학교)",
+        "위도": "37.6515354",
+        "경도": "127.0166028",
+        "코드": "0000099",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000099&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동국대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 중구 필동로1길 30 (장충동2가, 동국대학교)",
+        "위도": "37.5582582",
+        "경도": "127.0001869",
+        "코드": "0000100",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000100&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동국대학교(WISE)(분교)",
+        "캠퍼스 구분": "분교",
+        "지역": "경북",
+        "도로명": "경상북도 경주시 동대로 123 (석장동, 동국대학교경주캠퍼스)",
+        "위도": "35.8636659",
+        "경도": "129.1946221",
+        "코드": "0000101",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000101&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동덕여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성북구 화랑로13길 60 (하월곡동, 동덕여자대학교)",
+        "위도": "37.6068369",
+        "경도": "127.0419803",
+        "코드": "0000102",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000102&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동명대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 남구 신선로 428 (용당동, 동명대학교)",
+        "위도": "35.1220654",
+        "경도": "129.1016625",
+        "코드": "0000235",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000235&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동서대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 사상구 주례로 47 (주례동, 동서대학교)",
+        "위도": "35.1449821",
+        "경도": "129.00845",
+        "코드": "0000103",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000103&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 나주시 동신대길 67(대호동)",
+        "위도": "35.0496249",
+        "경도": "126.7179925",
+        "코드": "0000104",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000104&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동아대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 사하구 낙동대로550번길 37 (하단동, 동아대학교)",
+        "위도": "35.1161349",
+        "경도": "128.9675077",
+        "코드": "0000105",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000105&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경북 영주시 풍기읍 동양대로 145",
+        "위도": "36.8818808",
+        "경도": "128.5335281",
+        "코드": "0000106",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000106&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기 동두천시 평화로 2741",
+        "위도": "37.9340914",
+        "경도": "127.0551509",
+        "코드": "0000106",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000106&sch_year=2024#con20"
+    },
+    {
+        "대학명": "동의대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 부산진구 엄광로 176 (가야동, 동의대학교)",
+        "위도": "35.1418304",
+        "경도": "129.034615",
+        "코드": "0000107",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000107&sch_year=2024#con20"
+    },
+    {
+        "대학명": "루터대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 용인시 기흥구 금화로82번길 20 (상갈동, 루터대학교)",
+        "위도": "37.2647653",
+        "경도": "127.1128925",
+        "코드": "0000108",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000108&sch_year=2024#con20"
+    },
+    {
+        "대학명": "명지대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 용인시 처인구 명지로 116 (남동, 명지대학교용인캠퍼스)",
+        "위도": "37.2217101",
+        "경도": "127.1856568",
+        "코드": "0000109",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000109&sch_year=2024#con20"
+    },
+    {
+        "대학명": "명지대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "서울",
+        "도로명": "서울특별시 서대문구 거북골로 34 (남가좌동, 명지대학교)",
+        "위도": "37.580597",
+        "경도": "126.9230255",
+        "코드": "0000111",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000111&sch_year=2024#con20"
+    },
+    {
+        "대학명": "목원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 서구 도안북로 88 (도안동, 목원대학교)",
+        "위도": "36.3261041",
+        "경도": "127.3386258",
+        "코드": "0000112",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000112&sch_year=2024#con20"
+    },
+    {
+        "대학명": "목포가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 목포시 영산로 697 (석현동, 목포가톨릭대학교)",
+        "위도": "34.8268917",
+        "경도": "126.4195875",
+        "코드": "0000221",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000221&sch_year=2024#con20"
+    },
+    {
+        "대학명": "목포대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 무안군 청계면 영산로 1666 (도림리, 목포대학교)",
+        "위도": "34.9103065",
+        "경도": "126.4402102",
+        "코드": "0000011",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000011&sch_year=2024#con20"
+    },
+    {
+        "대학명": "목포해양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 목포시 해양대학로 91 (죽교동, 목포해양대학교)",
+        "위도": "34.7917765",
+        "경도": "126.365053",
+        "코드": "0000012",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000012&sch_year=2024#con20"
+    },
+    {
+        "대학명": "배재대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 서구 배재로 155-40 (도마동, 배재대학교)",
+        "위도": "36.320202",
+        "경도": "127.3652283",
+        "코드": "0000113",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000113&sch_year=2024#con20"
+    },
+    {
+        "대학명": "백석대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 천안시 동남구 백석대학로1 (안서동, 백석대학교)",
+        "위도": "36.8388372",
+        "경도": "127.1825206",
+        "코드": "0000178",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000178&sch_year=2024#con20"
+    },
+    {
+        "대학명": "부경대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 남구 용소로 45 (대연동, 부경대학교대연캠퍼스)",
+        "위도": "35.1335487",
+        "경도": "129.1059875",
+        "코드": "0000013",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000013&sch_year=2024#con20"
+    },
+    {
+        "대학명": "부산가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 금정구 오륜대로 57 (부곡동, 부산가톨릭대학교)",
+        "위도": "35.244704",
+        "경도": "129.0975492",
+        "코드": "0000114",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000114&sch_year=2024#con20"
+    },
+    {
+        "대학명": "부산교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 연제구 교대로 24 (거제동, 부산교육대학교)",
+        "위도": "35.1964877",
+        "경도": "129.0741436",
+        "코드": "0000254",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000254&sch_year=2024#con20"
+    },
+    {
+        "대학명": "부산대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 금정구 부산대학로63번길 2 (장전동, 부산대학교)",
+        "위도": "35.2333798",
+        "경도": "129.0798453",
+        "코드": "0000014",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000014&sch_year=2024#con20"
+    },
+    {
+        "대학명": "부산외국어대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 금정구 금샘로485번길 65 (남산동, 부산외국어대학교)",
+        "위도": "35.26705",
+        "경도": "129.07905",
+        "코드": "0000115",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000115&sch_year=2024#con20"
+    },
+    {
+        "대학명": "부산장신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 김해시 김해대로 1894-68 (구산동)",
+        "위도": "35.2577406",
+        "경도": "128.8615246",
+        "코드": "0000222",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000222&sch_year=2024#con20"
+    },
+    {
+        "대학명": "삼육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 노원구 화랑로 815 (공릉동, 삼육대학교)",
+        "위도": "37.6429794",
+        "경도": "127.1042695",
+        "코드": "0000116",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000116&sch_year=2024#con20"
+    },
+    {
+        "대학명": "상명대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 종로구 홍지문2길 20 (홍지동, 상명대학교)",
+        "위도": "37.6027666",
+        "경도": "126.9551533",
+        "코드": "0000117",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000117&sch_year=2024#con20"
+    },
+    {
+        "대학명": "상명대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "충남",
+        "도로명": "충청남도 천안시 동남구 상명대길 31 (안서동, 상명대학교천안캠퍼스)",
+        "위도": "36.8334726",
+        "경도": "127.1791304",
+        "코드": "0002959",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002959&sch_year=2024#con20"
+    },
+    {
+        "대학명": "상지대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 원주시 상지대길 83 (우산동, 상지대학교)",
+        "위도": "37.3697534",
+        "경도": "127.9300762",
+        "코드": "0000119",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000119&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서강대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 마포구 백범로 35 (신수동, 서강대학교)",
+        "위도": "37.5517132",
+        "경도": "126.9410634",
+        "코드": "0000120",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000120&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서경대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성북구 서경로 124 (정릉동, 서경대학교)",
+        "위도": "37.6150457",
+        "경도": "127.0133575",
+        "코드": "0000121",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000121&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울과학기술대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 노원구 공릉로 232 (공릉동, 서울과학기술대학교)",
+        "위도": "37.6316217",
+        "경도": "127.0783723",
+        "코드": "0000036",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000036&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 서초구 서초중앙로 96 (서초동, 서울교육대학교)",
+        "위도": "37.4903779",
+        "경도": "127.0168607",
+        "코드": "0000255",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000255&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울기독대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 은평구 갈현로4길 26-2 (신사동, 서울기독대학교)",
+        "위도": "37.600634",
+        "경도": "126.912654",
+        "코드": "0000098",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000098&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 관악구 관악로 1 (신림동, 서울대학교)",
+        "위도": "37.464007",
+        "경도": "126.9522394",
+        "코드": "0000019",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000019&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울시립대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 동대문구 서울시립대로 163 (전농동, 서울시립대학교)",
+        "위도": "37.583639",
+        "경도": "127.0588564",
+        "코드": "0000040",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000040&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 부천시 소사구 호현로489번길 52 (소사본동, 서울신학대학교)",
+        "위도": "",
+        "경도": "",
+        "코드": "0000125",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000125&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 노원구 화랑로 621 (공릉동, 서울여자대학교)",
+        "위도": "37.6280329",
+        "경도": "127.0904235",
+        "코드": "0000126",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000126&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울장신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 광주시 경안로 145 (경안동, 서울장신대학교)",
+        "위도": "37.4100211",
+        "경도": "127.2462171",
+        "코드": "0000127",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000127&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서울한영대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울시 구로구 경인로 290-42 (개봉동, 서울한영대학교)",
+        "위도": "37.4964113",
+        "경도": "126.8515463",
+        "코드": "0000205",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000205&sch_year=2024#con20"
+    },
+    {
+        "대학명": "서원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 청주시 서원구 무심서로 377-3 (모충동, 서원대학교)",
+        "위도": "36.6245008",
+        "경도": "127.4810766",
+        "코드": "0000128",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000128&sch_year=2024#con20"
+    },
+    {
+        "대학명": "선문대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 아산시 탕정면 선문로221번길 70 (갈산리, 선문대학교)",
+        "위도": "36.799147",
+        "경도": "127.0749055",
+        "코드": "0000129",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000129&sch_year=2024#con20"
+    },
+    {
+        "대학명": "성결대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 안양시 만안구 성결대학로 53 (안양동, 성결대학교)",
+        "위도": "37.3799",
+        "경도": "126.9266623",
+        "코드": "0000131",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000131&sch_year=2024#con20"
+    },
+    {
+        "대학명": "성공회대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 구로구 연동로 320 (항동, 성공회대학교)",
+        "위도": "37.4877974",
+        "경도": "126.8255598",
+        "코드": "0000132",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000132&sch_year=2024#con20"
+    },
+    {
+        "대학명": "성균관대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 종로구 성균관로 25-2 (명륜3가, 성균관대학교)",
+        "위도": "37.5879535",
+        "경도": "126.9921594",
+        "코드": "0000133",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000133&sch_year=2024#con20"
+    },
+    {
+        "대학명": "성신여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성북구 보문로34다길 2 (돈암동, 성신여자대학교)",
+        "위도": "37.5915171",
+        "경도": "127.0228833",
+        "코드": "0000136",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000136&sch_year=2024#con20"
+    },
+    {
+        "대학명": "세명대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 제천시 세명로 65 세명대학교",
+        "위도": "37.181051",
+        "경도": "128.196837",
+        "코드": "0000137",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000137&sch_year=2024#con20"
+    },
+    {
+        "대학명": "세종대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 광진구 능동로 209 (군자동, 세종대학교)",
+        "위도": "37.5514706",
+        "경도": "127.073884",
+        "코드": "0000138",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000138&sch_year=2024#con20"
+    },
+    {
+        "대학명": "세한대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 영암군 삼호읍 녹색로 1113 세한대학교",
+        "위도": "34.7509384",
+        "경도": "126.4863441",
+        "코드": "0000092",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000092&sch_year=2024#con20"
+    },
+    {
+        "대학명": "송원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 남구 송암로 73",
+        "위도": "35.1091923",
+        "경도": "126.8740705",
+        "코드": "0000243",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000243&sch_year=2024#con20"
+    },
+    {
+        "대학명": "수원가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 화성시 봉담읍 왕림1길 67 (왕림리, 수원가톨릭대학교)",
+        "위도": "37.1946126",
+        "경도": "126.9341701",
+        "코드": "0000139",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000139&sch_year=2024#con20"
+    },
+    {
+        "대학명": "수원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 화성시 봉담읍 와우안길 17 수원대학교",
+        "위도": "37.2087424",
+        "경도": "126.9765717",
+        "코드": "0000140",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000140&sch_year=2024#con20"
+    },
+    {
+        "대학명": "숙명여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 용산구 청파로47길 100 (청파동2가, 숙명여자대학교)",
+        "위도": "37.5459469",
+        "경도": "126.9645778",
+        "코드": "0000141",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000141&sch_year=2024#con20"
+    },
+    {
+        "대학명": "순천대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 순천시 중앙로 255 (석현동, 순천대학교)",
+        "위도": "34.9689184",
+        "경도": "127.4809015",
+        "코드": "0000020",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000020&sch_year=2024#con20"
+    },
+    {
+        "대학명": "순천향대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 아산시 순천향로 22",
+        "위도": "36.7700865",
+        "경도": "126.932338",
+        "코드": "0000142",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000142&sch_year=2024#con20"
+    },
+    {
+        "대학명": "숭실대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 동작구 상도로 369 (상도동, 숭실대학교)",
+        "위도": "37.4966895",
+        "경도": "126.9575041",
+        "코드": "0000143",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000143&sch_year=2024#con20"
+    },
+    {
+        "대학명": "신경주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경주시 태종로 188 (효현동, 경주대학교)",
+        "위도": "35.8294",
+        "경도": "129.16305",
+        "코드": "0000065",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000065&sch_year=2024#con20"
+    },
+    {
+        "대학명": "신라대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 사상구 백양대로700번길 140 (괘법동, 신라대학교)",
+        "위도": "35.1682792",
+        "경도": "128.9977086",
+        "코드": "0000144",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000144&sch_year=2024#con20"
+    },
+    {
+        "대학명": "신한대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 동두천시 벌마들로40번길 30 (상패동, 신한대학교)",
+        "위도": "37.904154",
+        "경도": "127.0361651",
+        "코드": "0002712",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002712&sch_year=2024#con20"
+    },
+    {
+        "대학명": "신한대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "경기",
+        "도로명": "경기도 의정부시 호암로 95 (호원동, 신한대학교)",
+        "위도": "37.7100953",
+        "경도": "127.0449589",
+        "코드": "0002800",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002800&sch_year=2024#con20"
+    },
+    {
+        "대학명": "아신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 양평군 옥천면 경강로 1276 (아신리, 아신대학교)",
+        "위도": "37.5111175",
+        "경도": "127.4282043",
+        "코드": "0000145",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000145&sch_year=2024#con20"
+    },
+    {
+        "대학명": "아주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 수원시 영통구 월드컵로 206 (원천동, 아주대학교)",
+        "위도": "37.2833808",
+        "경도": "127.046072",
+        "코드": "0000146",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000146&sch_year=2024#con20"
+    },
+    {
+        "대학명": "안동대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 안동시 경동로 1375 (송천동, 안동대학교)",
+        "위도": "36.5422432",
+        "경도": "128.7971386",
+        "코드": "0000021",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000021&sch_year=2024#con20"
+    },
+    {
+        "대학명": "안양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 안양시 만안구 삼덕로37번길 22 (안양동, 안양대학교)",
+        "위도": "37.3912403",
+        "경도": "126.9197909",
+        "코드": "0000147",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000147&sch_year=2024#con20"
+    },
+    {
+        "대학명": "안양대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "인천",
+        "도로명": "인천광역시 강화군 불은면 중앙로 602-14 (삼성리, 안양대학교강화캠퍼스)",
+        "위도": "37.7107366",
+        "경도": "126.4443816",
+        "코드": "0000148",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000148&sch_year=2024#con20"
+    },
+    {
+        "대학명": "연세대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 서대문구 연세로 50 (신촌동, 연세대학교)",
+        "위도": "37.5671131",
+        "경도": "126.9390292",
+        "코드": "0000149",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000149&sch_year=2024#con20"
+    },
+    {
+        "대학명": "연세대학교(미래)(분교)",
+        "캠퍼스 구분": "분교",
+        "지역": "강원",
+        "도로명": "강원도 원주시 흥업면 연세대길 1 (매지리, 연세대학교원주캠퍼스)",
+        "위도": "37.280875",
+        "경도": "127.901",
+        "코드": "0000150",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000150&sch_year=2024#con20"
+    },
+    {
+        "대학명": "영남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 대학로 280 (대동, 영남대학교)",
+        "위도": "35.8325351",
+        "경도": "128.7575093",
+        "코드": "0000151",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000151&sch_year=2024#con20"
+    },
+    {
+        "대학명": "영남신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경산시 진량읍 봉회1길 26 (봉회리, 영남신학대학교)",
+        "위도": "35.8803964",
+        "경도": "128.8180666",
+        "코드": "0000153",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000153&sch_year=2024#con20"
+    },
+    {
+        "대학명": "영산대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 양산시 주남로 288 (주남동, 영산대학교)",
+        "위도": "35.4286096",
+        "경도": "129.146125",
+        "코드": "0000236",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000236&sch_year=2024#con20"
+    },
+    {
+        "대학명": "영산대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "부산",
+        "도로명": "부산광역시 해운대구 반송순환로 142 (반송동, 영산대학교부산캠퍼스)",
+        "위도": "35.2239338",
+        "경도": "129.157482",
+        "코드": "0000237",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000237&sch_year=2024#con20"
+    },
+    {
+        "대학명": "영산선학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 영광군 백수읍 성지로 1357 (길용리)",
+        "위도": "35.3273523",
+        "경도": "126.44134",
+        "코드": "0000155",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000155&sch_year=2024#con20"
+    },
+    {
+        "대학명": "예수대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 전주시 완산구 서원로 383 (중화산동1가, 예수대학교)",
+        "위도": "35.815575",
+        "경도": "127.1351375",
+        "코드": "0000228",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000228&sch_year=2024#con20"
+    },
+    {
+        "대학명": "예원예술대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 임실군 신평면 창인로 117 (창인리, 예원예술학교)",
+        "위도": "35.6467719",
+        "경도": "127.2703758",
+        "코드": "0000218",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000218&sch_year=2024#con20"
+    },
+    {
+        "대학명": "예원예술대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "경기",
+        "도로명": "경기도 양주시 은현면 화합로1134번길 110 (용암리, 예원예술대학교양주캠퍼스)",
+        "위도": "37.8509796",
+        "경도": "127.0415874",
+        "코드": "0000219",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000219&sch_year=2024#con20"
+    },
+    {
+        "대학명": "용인대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 용인시 처인구 용인대학로 134 (삼가동, 용인대학교)",
+        "위도": "37.2270152",
+        "경도": "127.1678561",
+        "코드": "0000156",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000156&sch_year=2024#con20"
+    },
+    {
+        "대학명": "우석대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 완주군 삼례읍 삼례로 443 (후정리, 우석대학교)",
+        "위도": "35.9127996",
+        "경도": "127.0659877",
+        "코드": "0000157",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000157&sch_year=2024#con20"
+    },
+    {
+        "대학명": "우송대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 동구 동대전로 171 (자양동, 우송정보대학)",
+        "위도": "36.3375527",
+        "경도": "127.4453669",
+        "코드": "0000240",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000240&sch_year=2024#con20"
+    },
+    {
+        "대학명": "울산대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "울산",
+        "도로명": "울산광역시 남구 대학로 93 (무거동, 울산대학교)",
+        "위도": "35.5437482",
+        "경도": "129.2561333",
+        "코드": "0000158",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000158&sch_year=2024#con20"
+    },
+    {
+        "대학명": "원광대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 익산시 익산대로 460 (신동, 원광대학교)",
+        "위도": "35.96783",
+        "경도": "126.9557171",
+        "코드": "0000159",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000159&sch_year=2024#con20"
+    },
+    {
+        "대학명": "위덕대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 경주시 강동면 동해대로 261 (유금리, 위덕대학교)",
+        "위도": "36.0126541",
+        "경도": "129.2837978",
+        "코드": "0000160",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000160&sch_year=2024#con20"
+    },
+    {
+        "대학명": "유원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 영동군 영동읍 대학로 310",
+        "위도": "36.1954376",
+        "경도": "127.7979886",
+        "코드": "0000154",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000154&sch_year=2024#con20"
+    },
+    {
+        "대학명": "을지대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 중구 계룡로771번길 77 (목동, 을지대학교)",
+        "위도": "36.333117",
+        "경도": "127.405475",
+        "코드": "0000161",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000161&sch_year=2024#con20"
+    },
+    {
+        "대학명": "을지대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "경기",
+        "도로명": "경기도 성남시 수정구 산성대로 553 (양지동, 을지대학교)",
+        "위도": "37.4611948",
+        "경도": "127.1653979",
+        "코드": "0000162",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000162&sch_year=2024#con20"
+    },
+    {
+        "대학명": "을지대학교(제3캠퍼스)",
+        "캠퍼스 구분": "제3캠퍼스",
+        "지역": "경기",
+        "도로명": "경기도 의정부시 동일로 712 (금오동, 을지대학교)",
+        "위도": "37.7518185",
+        "경도": "127.0506997",
+        "코드": "0002911",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002911&sch_year=2024#con20"
+    },
+    {
+        "대학명": "이화여자대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 서대문구 이화여대길 52 (대현동, 이화여자대학교)",
+        "위도": "37.5617396",
+        "경도": "126.9472448",
+        "코드": "0000163",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000163&sch_year=2024#con20"
+    },
+    {
+        "대학명": "인제대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 김해시 인제로 197 (어방동, 인제대학교)",
+        "위도": "35.2487277",
+        "경도": "128.9026673",
+        "코드": "0000164",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000164&sch_year=2024#con20"
+    },
+    {
+        "대학명": "인천가톨릭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "인천",
+        "도로명": "인천광역시 강화군 양도면 고려왕릉로 53-1 (도장리, 인천가톨릭대학교)",
+        "위도": "37.6575487",
+        "경도": "126.4477375",
+        "코드": "0000168",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000168&sch_year=2024#con20"
+    },
+    {
+        "대학명": "인천가톨릭대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "인천",
+        "도로명": "인천광역시 송도문화로120번길 20 인천가톨릭대학교",
+        "위도": "37.3726233",
+        "경도": "126.6635086",
+        "코드": "0000167",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000167&sch_year=2024#con20"
+    },
+    {
+        "대학명": "인천대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "인천",
+        "도로명": "인천광역시 연수구 아카데미로 119 (송도동, 인천대학교)",
+        "위도": "37.3754977",
+        "경도": "126.6332532",
+        "코드": "0002660",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002660&sch_year=2024#con20"
+    },
+    {
+        "대학명": "인하대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "인천",
+        "도로명": "인천광역시 미추홀구 인하로 100 (용현동, 인하대학교)",
+        "위도": "37.4507292",
+        "경도": "126.6538126",
+        "코드": "0000169",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000169&sch_year=2024#con20"
+    },
+    {
+        "대학명": "장로회신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 광진구 광장로5길 25-1 (광장동, 장로회신학대학교)",
+        "위도": "37.5498569",
+        "경도": "127.1032818",
+        "코드": "0000170",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000170&sch_year=2024#con20"
+    },
+    {
+        "대학명": "전남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 북구 용봉로 77 (용봉동, 전남대학교)",
+        "위도": "35.1778193",
+        "경도": "126.9080453",
+        "코드": "0000023",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000023&sch_year=2024#con20"
+    },
+    {
+        "대학명": "전남대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "전남",
+        "도로명": "전라남도 여수시 대학로 50 (둔덕동, 전남대학교여수캠퍼스)",
+        "위도": "34.7743417",
+        "경도": "127.6993875",
+        "코드": "0000024",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000024&sch_year=2024#con20"
+    },
+    {
+        "대학명": "전북대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 전주시 덕진구 백제대로 567 (금암동, 전북대학교)",
+        "위도": "35.8462574",
+        "경도": "127.1320049",
+        "코드": "0000025",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000025&sch_year=2024#con20"
+    },
+    {
+        "대학명": "전주교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 전주시 완산구 서학로 50 (동서학동, 전주교육대학교)",
+        "위도": "35.8087125",
+        "경도": "127.1551917",
+        "코드": "0000258",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000258&sch_year=2024#con20"
+    },
+    {
+        "대학명": "전주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 전주시 완산구 천잠로 303 (효자동2가, 전주대학교)",
+        "위도": "35.8141581",
+        "경도": "127.0901464",
+        "코드": "0000171",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000171&sch_year=2024#con20"
+    },
+    {
+        "대학명": "제주국제대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "제주",
+        "도로명": "제주특별자치도 제주시 516로 2870 (영평동)",
+        "위도": "33.4404296",
+        "경도": "126.5703877",
+        "코드": "0000248",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000248&sch_year=2024#con20"
+    },
+    {
+        "대학명": "제주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "제주",
+        "도로명": "제주특별자치도 제주시 제주대학로 102 (아라일동, 제주대학교)",
+        "위도": "33.455902",
+        "경도": "126.5623921",
+        "코드": "0000027",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000027&sch_year=2024#con20"
+    },
+    {
+        "대학명": "조선대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 동구 조선대5길 조선대학교",
+        "위도": "",
+        "경도": "",
+        "코드": "0000172",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000172&sch_year=2024#con20"
+    },
+    {
+        "대학명": "중부대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충남 금산군 추부면 대학로 201",
+        "위도": "36.1929411",
+        "경도": "127.4501711",
+        "코드": "0000173",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000173&sch_year=2024#con20"
+    },
+    {
+        "대학명": "중부대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 고양시 덕양구 동헌로 305",
+        "위도": "37.7136509",
+        "경도": "126.8899147",
+        "코드": "0000173",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000173&sch_year=2024#con20"
+    },
+    {
+        "대학명": "중앙대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 동작구 흑석로 84 (흑석동, 중앙대학교)",
+        "위도": "37.5048875",
+        "경도": "126.9573779",
+        "코드": "0000175",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000175&sch_year=2024#con20"
+    },
+    {
+        "대학명": "중앙대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "경기",
+        "도로명": "경기도 안성시 대덕면 서동대로 4726 (내리, 중앙대학교)",
+        "위도": "37.0051163",
+        "경도": "127.2301841",
+        "코드": "0000174",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000174&sch_year=2024#con20"
+    },
+    {
+        "대학명": "중앙승가대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 김포시 승가로 123 (풍무동, 중앙승가대학)",
+        "위도": "37.6047675",
+        "경도": "126.7065093",
+        "코드": "0000177",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000177&sch_year=2024#con20"
+    },
+    {
+        "대학명": "중원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 괴산군 괴산읍 문무로 85 (동부리, 중원대학교)",
+        "위도": "36.8195441",
+        "경도": "127.7991125",
+        "코드": "0000239",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000239&sch_year=2024#con20"
+    },
+    {
+        "대학명": "진주교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 진주시 진양호로369번길 3 (신안동, 진주교육대학교)",
+        "위도": "35.1863618",
+        "경도": "128.0670038",
+        "코드": "0000260",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000260&sch_year=2024#con20"
+    },
+    {
+        "대학명": "차의과학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 포천시 해룡로 120 차의과학대학교",
+        "위도": "37.8579006",
+        "경도": "127.1377673",
+        "코드": "0000187",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000187&sch_year=2024#con20"
+    },
+    {
+        "대학명": "창신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 창원시 마산회원구 팔용로 262",
+        "위도": "35.2442062",
+        "경도": "128.599675",
+        "코드": "0000249",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000249&sch_year=2024#con20"
+    },
+    {
+        "대학명": "창원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경남",
+        "도로명": "경상남도 창원시 의창구 창원대학로 20 (사림동, 창원대학교)",
+        "위도": "35.245721",
+        "경도": "128.6929375",
+        "코드": "0000028",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000028&sch_year=2024#con20"
+    },
+    {
+        "대학명": "청운대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 홍성군 홍성읍 대학길 25 (남장리, 청운대학교)",
+        "위도": "36.582225",
+        "경도": "126.662625",
+        "코드": "0000284",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000284&sch_year=2024#con20"
+    },
+    {
+        "대학명": "청주교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 청주시 서원구 청남로 2065(수곡동) 청주교육대학교",
+        "위도": "36.6164054",
+        "경도": "127.4850572",
+        "코드": "0000261",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000261&sch_year=2024#con20"
+    },
+    {
+        "대학명": "청주대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 청주시 청원구 대성로 298 (내덕동, 청주대학교)",
+        "위도": "36.6531853",
+        "경도": "127.4957084",
+        "코드": "0000179",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000179&sch_year=2024#con20"
+    },
+    {
+        "대학명": "초당대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전남",
+        "도로명": "전라남도 무안군 무안읍 무안로 380 (성남리, 초당대학교)",
+        "위도": "34.9776261",
+        "경도": "126.4735349",
+        "코드": "0000246",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000246&sch_year=2024#con20"
+    },
+    {
+        "대학명": "총신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 동작구 사당로 143 (사당동, 총신대학교)",
+        "위도": "37.4892845",
+        "경도": "126.9669811",
+        "코드": "0000180",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000180&sch_year=2024#con20"
+    },
+    {
+        "대학명": "추계예술대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 서대문구 북아현로11가길 7 (북아현동, 추계예술대학교)",
+        "위도": "37.5630397",
+        "경도": "126.9536152",
+        "코드": "0000181",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000181&sch_year=2024#con20"
+    },
+    {
+        "대학명": "춘천교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 춘천시 공지로 126 (석사동, 춘천교육대학교)",
+        "위도": "37.8592511",
+        "경도": "127.7475533",
+        "코드": "0000262",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000262&sch_year=2024#con20"
+    },
+    {
+        "대학명": "충남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 유성구 대학로 99 (궁동, 충남대학교)",
+        "위도": "36.366638",
+        "경도": "127.3457442",
+        "코드": "0000029",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000029&sch_year=2024#con20"
+    },
+    {
+        "대학명": "충북대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 청주시 서원구 충대로 1 (개신동, 충북대학교)",
+        "위도": "36.6300483",
+        "경도": "127.4550701",
+        "코드": "0000030",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000030&sch_year=2024#con20"
+    },
+    {
+        "대학명": "칼빈대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 용인시 기흥구 마북로 184 (마북동, 칼빈대학교)",
+        "위도": "37.3047175",
+        "경도": "127.1278667",
+        "코드": "0000184",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000184&sch_year=2024#con20"
+    },
+    {
+        "대학명": "평택대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 평택시 서동대로 3825 (용이동, 평택대학교)",
+        "위도": "36.9952846",
+        "경도": "127.1334625",
+        "코드": "0000186",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000186&sch_year=2024#con20"
+    },
+    {
+        "대학명": "포항공과대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 포항시 남구 청암로 77 (지곡동, 포항공과대학교)",
+        "위도": "36.0105883",
+        "경도": "129.3213012",
+        "코드": "0000188",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000188&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한경국립대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 안성시 중앙로 327 (석정동, 한경대학교)",
+        "위도": "37.011667",
+        "경도": "127.2640718",
+        "코드": "0000037",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000037&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국공학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 시흥시 산기대학로 237 (정왕동, 한국공학대학교)",
+        "위도": "37.3400342",
+        "경도": "126.7335061",
+        "코드": "0000247",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000247&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국교원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 청주시 흥덕구 강내면 태성탑연로 250 (다락리, 한국교원대학교)",
+        "위도": "36.6109885",
+        "경도": "127.3588709",
+        "코드": "0000031",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000031&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국교통대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충북",
+        "도로명": "충청북도 충주시 대소원면 대학로 50 (검단리, 한국교통대학교)",
+        "위도": "36.9696921",
+        "경도": "127.872252",
+        "코드": "0000034",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000034&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국기술교육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 천안시 동남구 병천면 충절로 1600 한국기술교육대학교",
+        "위도": "36.7637515",
+        "경도": "127.2819829",
+        "코드": "0000189",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000189&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국성서대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 노원구 동일로214길 32 (상계동, 한국성서대학교)",
+        "위도": "37.648778",
+        "경도": "127.0643529",
+        "코드": "0000191",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000191&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국외국어대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 동대문구 이문로 107",
+        "위도": "37.5973078",
+        "경도": "127.0582878",
+        "코드": "0000192",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000192&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국체육대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 송파구 양재대로 1239 (방이동, 한국체육대학교)",
+        "위도": "37.5198884",
+        "경도": "127.1308626",
+        "코드": "0000032",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000032&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국침례신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 유성구 북유성대로 190 (하기동, 한국침례신학대학)",
+        "위도": "36.3857325",
+        "경도": "127.3262805",
+        "코드": "0000182",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000182&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국항공대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 고양시 덕양구 항공대학로 76 (화전동, 한국항공대학교)",
+        "위도": "37.5997399",
+        "경도": "126.8644887",
+        "코드": "0000194",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000194&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한국해양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "부산",
+        "도로명": "부산광역시 영도구 태종로 727 (동삼동, 한국해양대학교)",
+        "위도": "35.076358",
+        "경도": "129.0892004",
+        "코드": "0000033",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000033&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 대덕구 한남로 70 (오정동, 한남대학교)",
+        "위도": "36.3541173",
+        "경도": "127.4217991",
+        "코드": "0000195",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000195&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한동대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경북",
+        "도로명": "경상북도 포항시 북구 흥해읍 한동로 558 (남송리, 한동대학교)",
+        "위도": "36.1036575",
+        "경도": "129.3881109",
+        "코드": "0000196",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000196&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한라대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원특별자치도 원주시 한라대길 28",
+        "위도": "37.302992",
+        "경도": "127.907488",
+        "코드": "0000197",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000197&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한림대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "강원",
+        "도로명": "강원도 춘천시 한림대학길 1 (옥천동, 한림대학교)",
+        "위도": "37.8872151",
+        "경도": "127.7382499",
+        "코드": "0000198",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000198&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한밭대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "대전",
+        "도로명": "대전광역시 유성구 동서대로 125 (덕명동, 한밭대학교)",
+        "위도": "36.3520635",
+        "경도": "127.3014114",
+        "코드": "0000039",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000039&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한서대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 서산시 해미면 한서1로 46 (대곡리, 한서대학교)",
+        "위도": "36.6906314",
+        "경도": "126.5835864",
+        "코드": "0000199",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000199&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한성대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성북구 삼선교로16길 116 (삼선동2가, 한성대학교)",
+        "위도": "37.5825084",
+        "경도": "127.0102929",
+        "코드": "0000200",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000200&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한세대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 군포시 한세로 30 (당정동)",
+        "위도": "37.3465782",
+        "경도": "126.9528801",
+        "코드": "0000201",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000201&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 오산시 한신대길 137 (양산동, 한신대학교)",
+        "위도": "37.1939449",
+        "경도": "127.0234105",
+        "코드": "0000202",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000202&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한양대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 성동구 왕십리로 222 (사근동, 한양대학교)",
+        "위도": "37.5575753",
+        "경도": "127.0466899",
+        "코드": "0000203",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000203&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한양대학교(ERICA)(분교)",
+        "캠퍼스 구분": "분교",
+        "지역": "경기",
+        "도로명": "경기도 안산시 상록구 한양대학로 55 (사동, 한양대학교)",
+        "위도": "37.2954261",
+        "경도": "126.8353162",
+        "코드": "0000204",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000204&sch_year=2024#con20"
+    },
+    {
+        "대학명": "한일장신대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 완주군 상관면 왜목로 726-15 (신리, 한일장신대학교)",
+        "위도": "35.76375",
+        "경도": "127.206375",
+        "코드": "0000206",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000206&sch_year=2024#con20"
+    },
+    {
+        "대학명": "협성대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 화성시 봉담읍 최루백로 72 (상리, 협성대학교)",
+        "위도": "37.2132877",
+        "경도": "126.9526872",
+        "코드": "0000207",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000207&sch_year=2024#con20"
+    },
+    {
+        "대학명": "호남대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 광산구 호남대길 120",
+        "위도": "35.1499741",
+        "경도": "126.7650485",
+        "코드": "0000208",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000208&sch_year=2024#con20"
+    },
+    {
+        "대학명": "호남신학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "광주",
+        "도로명": "광주광역시 남구 제중로 77 (양림동, 호남신학대학교)",
+        "위도": "35.1404125",
+        "경도": "126.9114762",
+        "코드": "0000209",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000209&sch_year=2024#con20"
+    },
+    {
+        "대학명": "호서대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "충남",
+        "도로명": "충청남도 아산시 배방읍 호서로79번길 20 (세출리, 호서대학교)",
+        "위도": "36.7363588",
+        "경도": "127.0750254",
+        "코드": "0000211",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000211&sch_year=2024#con20"
+    },
+    {
+        "대학명": "호원대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "전북",
+        "도로명": "전라북도 군산시 임피면 호원대3길 64 (월하리, 호원대학교)",
+        "위도": "35.9667427",
+        "경도": "126.8648162",
+        "코드": "0000282",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000282&sch_year=2024#con20"
+    },
+    {
+        "대학명": "홍익대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "서울",
+        "도로명": "서울특별시 마포구 와우산로 94 (상수동, 홍익대학교)",
+        "위도": "37.5512242",
+        "경도": "126.9255396",
+        "코드": "0000212",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000212&sch_year=2024#con20"
+    },
+    {
+        "대학명": "홍익대학교(제2캠퍼스)",
+        "캠퍼스 구분": "제2캠퍼스",
+        "지역": "세종",
+        "도로명": "세종특별자치시 조치원읍 세종로 2639 (신안리, 홍익대학교세종캠퍼스)",
+        "위도": "36.6206133",
+        "경도": "127.2857975",
+        "코드": "0002949",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0002949&sch_year=2024#con20"
+    },
+    {
+        "대학명": "화성의과학대학교(본교)",
+        "캠퍼스 구분": "본교",
+        "지역": "경기",
+        "도로명": "경기도 화성시 남양읍 남양중앙로 400-5 (남양리, 화성의과학대학교)",
+        "위도": "37.2027514",
+        "경도": "126.8395132",
+        "코드": "0000233",
+        "성적확인용 웹페이지": "https://www.adiga.kr/kcue/ast/eip/eis/inf/stdptselctn/eipStdGenSlcIemCmprGnrl2.do?p_menu_id=PG-EIP-16001&chkUnivList=0000233&sch_year=2024#con20"
+    }
+]
