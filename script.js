@@ -2,7 +2,7 @@ let markers = [];
 let markersMap = {}; // 마커 참조를 저장할 객체
 
 function fetchAndDisplayData(region, clickedButton) {
-  fetch("./대학정보.json")
+  fetch("https://2024univ.github.io/대학정보.json")
     .then((response) => response.json())
     .then((jsonData) => {
       let filteredData = jsonData.filter((item) => {
