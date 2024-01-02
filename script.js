@@ -3,7 +3,7 @@ let markersMap = {}; // 마커 참조를 저장할 객체
 
 function fetchAndDisplayData(region, clickedButton) {
   console.log("fetchAndDisplayData called with region: " + region);
-  fetch("https://2024univ.github.io/대학정보.json")
+  fetch("./대학정보.json")
     .then((response) => response.json())
     .then((jsonData) => {
       console.log("All data:", jsonData);
@@ -37,6 +37,8 @@ function createUniversityButtons(data, clickedButton) {
     const button = document.createElement("button");
     button.textContent = item.대학명;
     button.onclick = () => focusOnMarker(item);
+    button.style.backgroundColor = "#b3d6f7"; // 변경된 색상 적용
+    button.style.color = "black"; // 글자색 검정색으로 설정
     buttonsContainer.appendChild(button);
   });
 
@@ -78,9 +80,9 @@ function displayMarkers(data) {
         title: item.대학명,
       });
 
-      marker.addListener("click", function () {
-        alert(item.대학명 + " (" + item["캠퍼스 구분"] + ")");
-      });
+      //marker.addListener("click", function () {
+      //  alert(item.대학명 + " (" + item["캠퍼스 구분"] + ")");
+      //});
 
       markers.push(marker);
     });
